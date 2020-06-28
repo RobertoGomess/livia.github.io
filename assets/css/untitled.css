@@ -1,0 +1,70 @@
+@media (min-width:992px) {
+  #mainNav {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    transition: padding-top .3s,padding-bottom .3s;
+    border: none;
+    background-color: transparent;
+    height: 30px;
+  }
+}
+
+#mainNav {
+  background-color: rgba(255,0,0,0)!important;
+}
+
+#welcome {
+  margin-top: 100%;
+}
+
+#divwel {
+  margin-top: 50px;
+}
+
+#divwel {
+}
+
+#cont {
+}
+
+header.masthead .intro-text {
+}
+
+#divwel {
+  margin-top: 10px;
+}
+
+@media (min-width:768px) {
+  header.masthead .intro-text {
+    padding-top: 170px;
+    padding-bottom: 200px;
+  }
+}
+
+header.masthead .intro-text .intro-lead-in {
+  /*font-size: 22px;*/
+  font-style: italic;
+  line-height: 22px;
+  margin-bottom: 25px;
+  font-family: Droid Serif,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+@media (min-width:768px) {
+  header.masthead .intro-text .intro-lead-in {
+    font-size: 40px;
+    font-style: italic;
+    line-height: 40px;
+    margin-bottom: 25px;
+    font-family: Droid Serif,Helvetica Neue,Helvetica,Arial,sans-serif;
+  }
+}
+
+#mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
+  color: #fec503;
+}
+
+#mainNav .navbar-brand {
+  color: rgb(255,224,136);
+  font-family: Kaushan Script,Helvetica Neue,Helvetica,Arial,cursive;
+}
+
